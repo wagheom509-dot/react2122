@@ -5,6 +5,7 @@ import './App.css'
 import A from './components/A'
 import {ErrorBoundary} from 'react-error-boundary' 
 import B from './components/B'
+import C from './components/C'
 
 function ErrorFallBack({error}){
   return(
